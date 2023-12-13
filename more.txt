@@ -1,5 +1,6 @@
 
 //本文件配置地址: https://raw.fgit.cf/w6566/tvlive/main/more.txt
+//以下资源收集于liu673cn
 
 {"urls": [
 {"url": "https://raw.fgit.cf/w6566/tvlive/main/wj.json","name":"wj"},
