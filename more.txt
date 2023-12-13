@@ -1,8 +1,8 @@
 
-//本文件配置地址: https://raw.fgit.cf/w6566/tv/main/dc.txt
+//本文件配置地址: https://raw.fgit.cf/w6566/tvlive/main/more.txt
 
 {"urls": [
-{"url": "https://raw.fgit.cf/w6566/tv/main/wj.json","name":"wj"},
+{"url": "https://raw.fgit.cf/w6566/tvlive/main/wj.json","name":"wj"},
 {"url": "https://raw.fgit.cf/w6566/tv/main/box/duo/m.json","name":"duo"},
 {"url": "https://raw.fgit.cf/w6566/tv/main/box/xduo/m.json","name":"xduo"},
 {"url": "https://raw.fgit.cf/w6566/tv/main/box/tm/m.json","name":"tm"},
