@@ -1,8 +1,7 @@
-新浪微博@·王健·,#genre#
-更新时间,http://tv.nxog.top/m/404/xjj.php
-2023-12-13,http://tv.nxog.top/m/404/xjj.php
-Sina微博,http://tv.nxog.top/m/404/xjj.php
-@·王健·,http://tv.nxog.top/m/404/xjj.php
+版本信息,#genre#
+更新时间231213,http://tv.nxog.top/m/404/xjj.php
+微博@·王健·,http://tv.nxog.top/m/404/xjj.php
+
 
 🇨🇳央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
